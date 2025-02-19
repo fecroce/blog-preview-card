@@ -1,0 +1,112 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Figtree", sans-serif;
+  background: hsl(47, 88%, 63%);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+  min-height: 100svh;
+}
+
+.card {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background: #fff;
+  padding: 1rem;
+  margin-top: 20px;
+  border-radius: 1.5rem;
+  box-sizing: border-box;
+  border: 1px solid black;
+  box-shadow: 4px 4px 2px #000;
+}
+
+.card-content {
+  max-width: 22rem;
+  min-height: 22rem;
+  text-align: center;
+}
+
+.card-image img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  width: 100%;
+  max-width: 360px;
+  border-radius: 1rem;
+  margin-bottom: 20px;
+}
+
+.fake-button {
+  text-align: left;
+}
+
+.button {
+  display: inline;
+  text-align: left;
+  text-decoration: none;
+  color: #000;
+  background-color: hsl(47, 88%, 63%);
+  border: none;
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: bold;
+  cursor: pointer;
+  padding: 6px 12px;
+  margin-bottom: 12px;
+}
+
+.span-button {
+  font-size: 14px;
+  color: hsl(0, 0%, 7%);
+  font-weight: 500;
+}
+
+.title {
+  text-align: left;
+}
+
+.title h2 {
+  font-weight: 800;
+}
+
+.title p {
+  color: hsl(0, 0%, 42%);
+}
+
+.user {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.user .avatar {
+  width: 2rem;
+  height: 2rem;
+}
+
+.user .avatar-name {
+  font-weight: 800;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  flex-wrap: wrap;
+  padding: 20px;
+  display: flex;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+  margin-left: 4px;
+  text-decoration: none;
+}
