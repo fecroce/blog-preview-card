@@ -20,7 +20,7 @@ This is my second challenge on the Frontend Mentor platform.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/fecroce/blog-preview-card.gitgt)
+- Solution URL: [Add solution URL here](https://github.com/fecroce/blog-preview-card.git)
 - Live Site URL: [Add live site URL here](http://blogpreviewcard.io/)
 
 ### Built with
