@@ -21,7 +21,7 @@ This is my second challenge on the Frontend Mentor platform.
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/fecroce/blog-preview-card.gitgt)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](http://blogpreviewcard.io/)
 
 ### Built with
 
